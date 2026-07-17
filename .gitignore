@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Microsoft Azure Web App publish settings
+*.Publish.xml
+
+# Rider caches
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+~$*
+
+# User-specific files
+*.userprefs
+
+# Database files
+*.mdf
+*.ldf
+
+# dotCover
+*.dotCover
+
+# Local test results
+TestResults/
+
+# Others
+*.vsix
+
+# Ignore Visual Studio index files that may cause permission issues
+.vs/**/*.vsidx
